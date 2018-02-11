@@ -1,28 +1,31 @@
+# TypingAid
+
 TypingAid is a simple, compact, and handy auto-completion utility.
 
 It is customizable enough to be useful for regular typing and for programming.
 
-**Download:**
-[TypingAid v2.22.0 Precompiled Executable](https://github.com/ManiacDC/TypingAid/releases/download/v2.22.0.0/TypingAid.zip)
-[TypingAid v2.22.0 AHK Script](https://github.com/ManiacDC/TypingAid/archive/v2.22.0.0.zip)
+## Download
+ * [TypingAid v2.22.0 Precompiled Executable](https://github.com/ManiacDC/TypingAid/releases/download/v2.22.0.0/TypingAid.zip)
+ * [TypingAid v2.22.0 AHK Script](https://github.com/ManiacDC/TypingAid/archive/v2.22.0.0.zip)
 
 As of version 2.19.7.0, the script is no longer compatible with AHK Basic. Please get the newest version from [http://www.ahkscript.org](http://www.ahkscript.org).
 
-English Wordlists:
-[1200 English Words Weighted By Frequency](https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/Wordlist%201200%20frequency%20weighted.txt)
-[2000 Common English Words](https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/Wordlist%202000%20common.txt)
-[2000 Common English Words (Alternative)](https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/Wordlist%202000%20common%202.txt)
-[3600 English Words](https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/Wordlist%203600.txt)
-[Large English Wordlist (Unfiltered, may contain curse words, etc)](https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/English%20wordlist%20unfiltered.txt)
-[Large English Wordlist](https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/WordList_English%20rommmcek.txt) by [rommmcek](http://ahkscript.org/boards/memberlist.php?mode=viewprofile&u=59845)
-[Large English Wordlist (words with only 4+ letters)](https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/WordList_English%20rommmcek%20(4%2B%20letter%20words%20only).txt) by [rommmcek](http://ahkscript.org/boards/memberlist.php?mode=viewprofile&u=59845)
-[350,000+ English words (extracted from Project Gutenberg)](https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/WordList%20English%20Gutenberg.txt), [found here](https://github.com/dwyl/english-words)
-[235,000+ English words (extracted from /usr/share/dict/words)](https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/WordList%20English%20Unix.txt), [found here](https://github.com/dwyl/english-words)
+## English Wordlists
+
+ * [1200 English Words Weighted By Frequency](https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/Wordlist%201200%20frequency%20weighted.txt)
+ * [2000 Common English Words](https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/Wordlist%202000%20common.txt)
+ * [2000 Common English Words (Alternative)](https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/Wordlist%202000%20common%202.txt)
+ * [3600 English Words](https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/Wordlist%203600.txt)
+ * [Large English Wordlist (Unfiltered, may contain curse words, etc)](https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/English%20wordlist%20unfiltered.txt)
+ * [Large English Wordlist](https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/WordList_English%20rommmcek.txt) by [rommmcek](http://ahkscript.org/boards/memberlist.php?mode=viewprofile&u=59845)
+ * [Large English Wordlist (words with only 4+ letters)](https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/WordList_English%20rommmcek%20(4%2B%20letter%20words%20only).txt) by [rommmcek](http://ahkscript.org/boards/memberlist.php?mode=viewprofile&u=59845)
+ * [350,000+ English words (extracted from Project Gutenberg)](https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/WordList%20English%20Gutenberg.txt), [found here](https://github.com/dwyl/english-words)
+ * [235,000+ English words (extracted from /usr/share/dict/words)](https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/WordList%20English%20Unix.txt), [found here](https://github.com/dwyl/english-words)
 [url=https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/Wordlist%20100000%20frequency%20weighted%20(Google%20Books).txt]100,000 English Words Weighted by Frequency (based on Google Books)[/url]
 [url=https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/Wordlist%20333333%20frequency%20weighted%20(Norvig).txt]333,333 English Words Weighted by Frequency (based on Google Web Trillion Word Corpus, by Norvig)[/url]
 [url=https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/Wordlist%20550000%20frequency%20weighted%20(BNC).txt]550,000+ English Words Weighted by Frequency (based on British National Corpus)[/url]
 
-Non-English Wordlists
+## Non-English Wordlists
 [url=https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/WordList_French%20rommmcek.txt]Large French Wordlist[/url] by [url=http://ahkscript.org/boards/memberlist.php?mode=viewprofile&u=59845]rommmcek[/url]
 [url=https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/WordList_German%20rommmcek.txt]Large German Wordlist[/url] by [url=http://ahkscript.org/boards/memberlist.php?mode=viewprofile&u=59845]rommmcek[/url]
 [url=https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/WordList_ItalianAbc%20rommmcek.txt]Large Italian Wordlist[/url] by [url=http://ahkscript.org/boards/memberlist.php?mode=viewprofile&u=59845]rommmcek[/url]
@@ -30,19 +33,20 @@ Non-English Wordlists
 [url=https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/Wordlist%20Spanish.txt]Large Spanish Wordlist[/url] by [url=https://github.com/jamesw77bp]jamesw77bp[/url]
 [url=https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/WordList_SpanishAbc%20rommmcek.txt]Large Spanish Wordlist[/url] by [url=http://ahkscript.org/boards/memberlist.php?mode=viewprofile&u=59845]rommmcek[/url]
 
-AHK Keyword Wordlist:
+## AHK Keyword Wordlist
 [url=https://github.com/ManiacDC/TypingAid/raw/master/Wordlists/WordList%20AHK.txt]Wordlist AHK.txt[/url] (Thanks [url=http://www.autohotkey.com/board/topic/49517-typingaid-v219-word-autocompletion-utility/page-22#entry425973]tidbit[/url].)
 [url=https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/WordList%20AHK%20with%20parameter%20descriptions.txt]Wordlist AHK with parameter descriptions[/url] by [url=http://ahkscript.org/boards/memberlist.php?mode=viewprofile&u=59845]rommmcek[/url]
 [url=https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/WordList%20AHK%20with%20parameter%20descriptions%20and%20comments.txt]Wordlist AHK with parameter descriptions and comments[/url] by [url=http://ahkscript.org/boards/memberlist.php?mode=viewprofile&u=59845]rommmcek[/url]
 [url=https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/WordList%20AHK%20with%20parameters%20autocompleted.txt]Wordlist AHK with parameters autocompleted[/url] by [url=http://ahkscript.org/boards/memberlist.php?mode=viewprofile&u=59845]rommmcek[/url]
 
-[b]Screenshots:[/b]
+## Screenshots
 [img]https://github.com/ManiacDC/TypingAid/raw/master/Images/TypingAidListBox.png[/img]
 [img]https://github.com/ManiacDC/TypingAid/raw/master/Images/TypingAidSettings.png[/img]
 
-[b][url=https://github.com/ManiacDC/TypingAid/raw/master/Changelog.txt]Change Log[/url][/b]
+## [Change Log](https://github.com/ManiacDC/TypingAid/raw/master/Changelog.txt)
 
-[b]Features:[/b]
+## Features
+
 As you type your word, up to 10 (or as defined in Settings) matches will appear in a drop-down dialog, numbered 1 - 0 (10th). To choose the match you want just hit the associated number on your keyboard (numpad does not work). Alternatively you can select an item from the drop-down using the Up/Down arrows or the mouse. You can define a fixed position for the drop-down dialog to appear by hitting Ctrl-Shift-H to open a small helper window, or by specifying a list of programs in the preferences file. Please note that in Firefox, Thunderbird, and certain other programs you will probably need to open the helper window due to issues detecting the caret position.
 
 Words should be stored in a file named 'Wordlist.txt' which should be located in the script directory. These words may be commented out by prefixing with a semicolon or simply removed or added. Words may include terminating characters (such as space), but you must select the word before typing the terminating character.
@@ -52,9 +56,9 @@ In addition to being able to use the number keys to select a word, you can selec
 The script will learn words as you type them if "Learn new words as you type" is set to On in Settings. If you type a word more than 5 times (or as defined in "Minimum length of word to learn") in a single session the word will be permanently added to the list of learned words. Learned words will always appear below predefined words, but will be ranked and ordered among other learned words based on the frequency you type them. You can permanently learn a word by highlighting a word and hitting Ctrl-Shift-C (this works even if "Learn new words as you type" is set to Off). You may use Ctrl-Shift-Del to remove the currently selected Learned Word.
 Learned words are stored in the WordlistLearned.db sqlite3 database. Learned words are backed up in WordlistLearned.txt. To modify the list of Learned words manually, delete the WordlistLearned.db database, then manually edit the WordlistLearned.txt file. On the next launch of the script, the WordlistLearned.db database will be rebuilt.
 
-Word descriptions can be added to 'Wordlist.txt' that will appear in the wordlist next to the word. These descriptions should be in the form of <word>|d|<description>, e.g., Tylenol|d|Pain Reliever. This could be used for things like definitions, translation aids, or function arguments. When Fixed Width fonts are used in the wordlist, the description columns will be tabbed evenly so they line up.
+Word descriptions can be added to 'Wordlist.txt' that will appear in the wordlist next to the word. These descriptions should be in the form of `<word>|d|<description>`, e.g., `Tylenol|d|Pain Reliever`. This could be used for things like definitions, translation aids, or function arguments. When Fixed Width fonts are used in the wordlist, the description columns will be tabbed evenly so they line up.
 
-Word replacements can be added to 'Wordlist.txt' that will appear in the wordlist next to the word. These replacements should be in the form of <word>|r|<description>, e.g., fire|r|fuego. When the word is chosen, it will be backspaced out and replaced with the new word. If Case Correction is off, the first letter will be changed to match the case of the word being replaced. This could be used for spelling replacements, text expansion, or translation aids. Multiple replacements can be defined for a word (put each on a separate line).
+Word replacements can be added to 'Wordlist.txt' that will appear in the wordlist next to the word. These replacements should be in the form of `<word>|r|<description>`, e.g., `fire|r|fuego`. When the word is chosen, it will be backspaced out and replaced with the new word. If Case Correction is off, the first letter will be changed to match the case of the word being replaced. This could be used for spelling replacements, text expansion, or translation aids. Multiple replacements can be defined for a word (put each on a separate line).
 
 A description and a replacement can both be added to the same word.
 
@@ -62,9 +66,9 @@ When Settings are changed, the script will automatically create a file named Pre
 To allow for distribution of standardized preferences, a Defaults.ini may be distributed with the same format as Preferences.ini. If the Defaults.ini is present, this will override the hardcoded defaults in the script. A user may override the Defaults.ini by changing settings in the Settings window.
 
 Customizable features include:
-[LIST]
-[*]Enable or disable learning mode.[/*]
-[*]Number of characters a word needs to have in order to be learned.[/*]
+
+ * Enable or disable learning mode.
+ * Number of characters a word needs to have in order to be learned.
 [*]Number of times you must type a word before it is permanently learned.[/*]
 [*]List of strings which will prevent any word which contains one of these strings from being learned.[/*]
 [*]Number of times you must press a number hotkey to select the associated word.[/*]
@@ -92,8 +96,9 @@ Customizable features include:
 [*]List of characters which terminate a word.[/*]
 [*]List of characters which terminate a word and start a new word.[/*]
 [*]List of characters which end a word, add that character to the word, and force the word to be learned.[/*]
-[/LIST]
-[b]Unicode Support:[/b]
+
+
+## Unicode Support
 Full support for UTF-8 character set.
 
 [b][url=https://github.com/ManiacDC/TypingAid/issues?q=is%3Aopen+is%3Aissue]Known Issues[/url][/b]
@@ -102,16 +107,17 @@ Full support for UTF-8 character set.
 
 [b][url=https://github.com/ManiacDC/TypingAid/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement]Future Features[/url][/b]
 
-**Credits:*
-Maniac
-Jordi S
-HugoV
-kakarukeys
-Asaptrad
-j4hangir
-Theclaw
-rommmcek
-jamesw77bp
+## Credits
+
+ * Maniac
+ * Jordi S
+ * HugoV
+ * kakarukeys
+ * Asaptrad
+ * j4hangir
+ * Theclaw
+ * rommmcek
+ * jamesw77bp
 
 
 **[Original Thread](http://www.autohotkey.com/board/topic/636-intellisense-like-autoreplacement-with-multiple-suggestions/)**
