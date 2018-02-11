@@ -26,22 +26,24 @@ As of version 2.19.7.0, the script is no longer compatible with AHK Basic. Pleas
  * [550,000+ English Words Weighted by Frequency (based on British National Corpus)](https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/Wordlist%20550000%20frequency%20weighted%20(BNC).txt)
 
 ## Non-English Wordlists
-[url=https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/WordList_French%20rommmcek.txt]Large French Wordlist[/url] by [url=http://ahkscript.org/boards/memberlist.php?mode=viewprofile&u=59845]rommmcek[/url]
-[url=https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/WordList_German%20rommmcek.txt]Large German Wordlist[/url] by [url=http://ahkscript.org/boards/memberlist.php?mode=viewprofile&u=59845]rommmcek[/url]
-[url=https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/WordList_ItalianAbc%20rommmcek.txt]Large Italian Wordlist[/url] by [url=http://ahkscript.org/boards/memberlist.php?mode=viewprofile&u=59845]rommmcek[/url]
-[url=https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/Wordlist%20Romanian.txt]Romanian Wordlist (282,000+ words)[/url] Thanks to [url=http://www.autohotkey.com/board/user/38990-ochisor/]Ochisor[/url]. Extracted from [url=http://www.ub-filosofie.ro/~solcan/wt/gnu/s/aspell-ro.html]here[/url].
-[url=https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/Wordlist%20Spanish.txt]Large Spanish Wordlist[/url] by [url=https://github.com/jamesw77bp]jamesw77bp[/url]
-[url=https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/WordList_SpanishAbc%20rommmcek.txt]Large Spanish Wordlist[/url] by [url=http://ahkscript.org/boards/memberlist.php?mode=viewprofile&u=59845]rommmcek[/url]
+
+ * [Large French Wordlist](https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/WordList_French%20rommmcek.txt) by [rommmcek](http://ahkscript.org/boards/memberlist.php?mode=viewprofile&u=59845)
+ * [Large German Wordlist](https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/WordList_German%20rommmcek.txt) by [rommmcek](http://ahkscript.org/boards/memberlist.php?mode=viewprofile&u=59845)
+ * [Large Italian Wordlist](https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/WordList_ItalianAbc%20rommmcek.txt) by [rommmcek](http://ahkscript.org/boards/memberlist.php?mode=viewprofile&u=59845)
+ * [Romanian Wordlist (282,000+ words)](https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/Wordlist%20Romanian.txt) Thanks to [Ochisor](http://www.autohotkey.com/board/user/38990-ochisor/). Extracted from [here](http://www.ub-filosofie.ro/~solcan/wt/gnu/s/aspell-ro.html).
+ * [Large Spanish Wordlist](https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/Wordlist%20Spanish.txt) by [jamesw77bp](https://github.com/jamesw77bp)
+ * [Large Spanish Wordlist](https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/WordList_SpanishAbc%20rommmcek.txt) by [rommmcek](http://ahkscript.org/boards/memberlist.php?mode=viewprofile&u=59845)
 
 ## AHK Keyword Wordlist
-[url=https://github.com/ManiacDC/TypingAid/raw/master/Wordlists/WordList%20AHK.txt]Wordlist AHK.txt[/url] (Thanks [url=http://www.autohotkey.com/board/topic/49517-typingaid-v219-word-autocompletion-utility/page-22#entry425973]tidbit[/url].)
-[url=https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/WordList%20AHK%20with%20parameter%20descriptions.txt]Wordlist AHK with parameter descriptions[/url] by [url=http://ahkscript.org/boards/memberlist.php?mode=viewprofile&u=59845]rommmcek[/url]
-[url=https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/WordList%20AHK%20with%20parameter%20descriptions%20and%20comments.txt]Wordlist AHK with parameter descriptions and comments[/url] by [url=http://ahkscript.org/boards/memberlist.php?mode=viewprofile&u=59845]rommmcek[/url]
-[url=https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/WordList%20AHK%20with%20parameters%20autocompleted.txt]Wordlist AHK with parameters autocompleted[/url] by [url=http://ahkscript.org/boards/memberlist.php?mode=viewprofile&u=59845]rommmcek[/url]
+
+ * [Wordlist AHK.txt](https://github.com/ManiacDC/TypingAid/raw/master/Wordlists/WordList%20AHK.txt) (Thanks [tidbit](http://www.autohotkey.com/board/topic/49517-typingaid-v219-word-autocompletion-utility/page-22#entry425973).)
+ * [Wordlist AHK with parameter descriptions](https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/WordList%20AHK%20with%20parameter%20descriptions.txt) by [rommmcek](http://ahkscript.org/boards/memberlist.php?mode=viewprofile&u=59845)
+ * [Wordlist AHK with parameter descriptions and comments](https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/WordList%20AHK%20with%20parameter%20descriptions%20and%20comments.txt) by [rommmcek](http://ahkscript.org/boards/memberlist.php?mode=viewprofile&u=59845)
+ * [Wordlist AHK with parameters autocompleted](https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/WordList%20AHK%20with%20parameters%20autocompleted.txt) by [rommmcek](http://ahkscript.org/boards/memberlist.php?mode=viewprofile&u=59845)
 
 ## Screenshots
-[img]https://github.com/ManiacDC/TypingAid/raw/master/Images/TypingAidListBox.png[/img]
-[img]https://github.com/ManiacDC/TypingAid/raw/master/Images/TypingAidSettings.png[/img]
+![TypeAid listbox](https://github.com/ManiacDC/TypingAid/raw/master/Images/TypingAidListBox.png)
+![TypeAid settings](https://github.com/ManiacDC/TypingAid/raw/master/Images/TypingAidSettings.png)
 
 ## [Change Log](https://github.com/ManiacDC/TypingAid/raw/master/Changelog.txt)
 
@@ -51,19 +53,19 @@ As you type your word, up to 10 (or as defined in Settings) matches will appear 
 
 Words should be stored in a file named `Wordlist.txt`  which should be located in the script directory. These words may be commented out by prefixing with a semicolon or simply removed or added. Words may include terminating characters (such as space), but you must select the word before typing the terminating character.
 
-In addition to being able to use the number keys to select a word, you can select words from the drop-down via the `Up`/`Down` arrows. Hitting `Up` on the first item will bring you to the last and hitting `Down` on the last item will bring you to the first. Hitting `Page Up` will bring you up 10 items, or to the first item. Hitting `Page Down` will bring you down 10 items, or to the last item. You can hit `Tab`, `Right Arrow`, `Ctrl-Space`, or `Ctrl-Enter` to autocomplete the selected word. This feature can be disabled or have some of its behavior modified via Settings.
+In addition to being able to use the number keys to select a word, you can select words from the drop-down via the `Up`/`Down` arrows. Hitting `Up` on the first item will bring you to the last and hitting `Down` on the last item will bring you to the first. Hitting `Page Up` will bring you up 10 items, or to the first item. Hitting `Page Down` will bring you down 10 items, or to the last item. You can hit `Tab`, `Right Arrow`, `Ctrl-Space`, or `Ctrl-Enter` to autocomplete the selected word. This feature can be disabled or have some of its behavior modified via _Settings_.
 
-The script will learn words as you type them if "Learn new words as you type" is set to On in Settings. If you type a word more than 5 times (or as defined in "Minimum length of word to learn") in a single session the word will be permanently added to the list of learned words. Learned words will always appear below predefined words, but will be ranked and ordered among other learned words based on the frequency you type them. You can permanently learn a word by highlighting a word and hitting `Ctrl-Shift-C` (this works even if "Learn new words as you type" is set to Off). You may use `Ctrl-Shift-Del` to remove the currently selected Learned Word.
+The script will learn words as you type them if "Learn new words as you type" is set to _On_ in Settings. If you type a word more than 5 times (or as defined in _Minimum length of word to learn_) in a single session the word will be permanently added to the list of learned words. Learned words will always appear below predefined words, but will be ranked and ordered among other learned words based on the frequency you type them. You can permanently learn a word by highlighting a word and hitting `Ctrl-Shift-C` (this works even if _Learn new words as you type_ is set to _Off_). You may use `Ctrl-Shift-Del` to remove the currently selected Learned Word.
 Learned words are stored in the `WordlistLearned.db` [sqlite3](http://sqlite.org) database. Learned words are backed up in `WordlistLearned.txt`. To modify the list of Learned words manually, delete the `WordlistLearned.db` database, then manually edit the `WordlistLearned.txt` file. On the next launch of the script, the `WordlistLearned.db` database will be rebuilt.
 
-Word descriptions can be added to 'Wordlist.txt' that will appear in the wordlist next to the word. These descriptions should be in the form of `<word>|d|<description>`, e.g., `Tylenol|d|Pain Reliever`. This could be used for things like definitions, translation aids, or function arguments. When Fixed Width fonts are used in the wordlist, the description columns will be tabbed evenly so they line up.
+Word descriptions can be added to `Wordlist.txt`  that will appear in the wordlist next to the word. These descriptions should be in the form of `<word>|d|<description>`, e.g., `Tylenol|d|Pain Reliever`. This could be used for things like definitions, translation aids, or function arguments. When _Fixed Width_ fonts are used in the wordlist, the description columns will be tabbed evenly so they line up.
 
-Word replacements can be added to 'Wordlist.txt' that will appear in the wordlist next to the word. These replacements should be in the form of `<word>|r|<description>`, e.g., `fire|r|fuego`. When the word is chosen, it will be backspaced out and replaced with the new word. If Case Correction is off, the first letter will be changed to match the case of the word being replaced. This could be used for spelling replacements, text expansion, or translation aids. Multiple replacements can be defined for a word (put each on a separate line).
+Word replacements can be added to `Wordlist.txt` that will appear in the wordlist next to the word. These replacements should be in the form of `<word>|r|<description>`, e.g., `fire|r|fuego`. When the word is chosen, it will be backspaced out and replaced with the new word. If _Case Correction_ is off, the first letter will be changed to match the case of the word being replaced. This could be used for spelling replacements, text expansion, or translation aids. Multiple replacements can be defined for a word (put each on a separate line).
 
 A description and a replacement can both be added to the same word.
 
-When Settings are changed, the script will automatically create a file named `Preferences.ini` in the script directory. This file allows for sharing settings between users. Users are encouraged to only edit settings by using the Settings window.
-To allow for distribution of standardized preferences, a Defaults.ini may be distributed with the same format as `Preferences.ini`. If the `Defaults.ini` is present, this will override the hardcoded defaults in the script. A user may override the `Defaults.ini` by changing settings in the Settings window.
+When Settings are changed, the script will automatically create a file named `Preferences.ini` in the script directory. This file allows for sharing settings between users. Users are encouraged to only edit settings by using the _Settings_ window.
+To allow for distribution of standardized preferences, a `Defaults.ini` may be distributed with the same format as `Preferences.ini`. If the `Defaults.ini` is present, this will override the hardcoded defaults in the script. A user may override the `Defaults.ini` by changing settings in the Settings window.
 
 Customizable features include:
 
