@@ -2,22 +2,22 @@ TypingAid is a simple, compact, and handy auto-completion utility.
 
 It is customizable enough to be useful for regular typing and for programming.
 
-[b]Download:[/b]
-[url=https://github.com/ManiacDC/TypingAid/releases/download/v2.22.0.0/TypingAid.zip]TypingAid v2.22.0 Precompiled Executable[/url]
-[url=https://github.com/ManiacDC/TypingAid/archive/v2.22.0.0.zip]TypingAid v2.22.0 AHK Script[/url]
+**Download:**
+[TypingAid v2.22.0 Precompiled Executable](https://github.com/ManiacDC/TypingAid/releases/download/v2.22.0.0/TypingAid.zip)
+[TypingAid v2.22.0 AHK Script](https://github.com/ManiacDC/TypingAid/archive/v2.22.0.0.zip)
 
-As of version 2.19.7.0, the script is no longer compatible with AHK Basic. Please get the newest version from [url]http://www.ahkscript.org[/url].
+As of version 2.19.7.0, the script is no longer compatible with AHK Basic. Please get the newest version from [http://www.ahkscript.org](http://www.ahkscript.org).
 
 English Wordlists:
-[url=https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/Wordlist%201200%20frequency%20weighted.txt]1200 English Words Weighted By Frequency[/url]
-[url=https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/Wordlist%202000%20common.txt]2000 Common English Words[/url]
-[url=https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/Wordlist%202000%20common%202.txt]2000 Common English Words (Alternative)[/url]
-[url=https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/Wordlist%203600.txt]3600 English Words[/url]
-[url=https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/English%20wordlist%20unfiltered.txt]Large English Wordlist (Unfiltered, may contain curse words, etc)[/url]
-[url=https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/WordList_English%20rommmcek.txt]Large English Wordlist[/url] by [url=http://ahkscript.org/boards/memberlist.php?mode=viewprofile&u=59845]rommmcek[/url]
-[url=https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/WordList_English%20rommmcek%20(4%2B%20letter%20words%20only).txt]Large English Wordlist (words with only 4+ letters)[/url] by [url=http://ahkscript.org/boards/memberlist.php?mode=viewprofile&u=59845]rommmcek[/url]
-[url=https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/WordList%20English%20Gutenberg.txt]350,000+ English words (extracted from Project Gutenberg)[/url], [url=https://github.com/dwyl/english-words]found here[/url]
-[url=https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/WordList%20English%20Unix.txt]235,000+ English words (extracted from /usr/share/dict/words)[/url], [url=https://github.com/dwyl/english-words]found here[/url]
+[1200 English Words Weighted By Frequency](https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/Wordlist%201200%20frequency%20weighted.txt)
+[2000 Common English Words](https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/Wordlist%202000%20common.txt)
+[2000 Common English Words (Alternative)](https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/Wordlist%202000%20common%202.txt)
+[3600 English Words](https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/Wordlist%203600.txt)
+[Large English Wordlist (Unfiltered, may contain curse words, etc)](https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/English%20wordlist%20unfiltered.txt)
+[Large English Wordlist](https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/WordList_English%20rommmcek.txt) by [rommmcek](http://ahkscript.org/boards/memberlist.php?mode=viewprofile&u=59845)
+[Large English Wordlist (words with only 4+ letters)](https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/WordList_English%20rommmcek%20(4%2B%20letter%20words%20only).txt) by [rommmcek](http://ahkscript.org/boards/memberlist.php?mode=viewprofile&u=59845)
+[350,000+ English words (extracted from Project Gutenberg)](https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/WordList%20English%20Gutenberg.txt), [found here](https://github.com/dwyl/english-words)
+[235,000+ English words (extracted from /usr/share/dict/words)](https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/WordList%20English%20Unix.txt), [found here](https://github.com/dwyl/english-words)
 [url=https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/Wordlist%20100000%20frequency%20weighted%20(Google%20Books).txt]100,000 English Words Weighted by Frequency (based on Google Books)[/url]
 [url=https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/Wordlist%20333333%20frequency%20weighted%20(Norvig).txt]333,333 English Words Weighted by Frequency (based on Google Web Trillion Word Corpus, by Norvig)[/url]
 [url=https://raw.githubusercontent.com/ManiacDC/TypingAid/master/Wordlists/Wordlist%20550000%20frequency%20weighted%20(BNC).txt]550,000+ English Words Weighted by Frequency (based on British National Corpus)[/url]
@@ -102,7 +102,7 @@ Full support for UTF-8 character set.
 
 [b][url=https://github.com/ManiacDC/TypingAid/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement]Future Features[/url][/b]
 
-[b]Credits:[/b]
+**Credits:*
 Maniac
 Jordi S
 HugoV
@@ -114,5 +114,4 @@ rommmcek
 jamesw77bp
 
 
-
-[b][url=http://www.autohotkey.com/board/topic/636-intellisense-like-autoreplacement-with-multiple-suggestions/]Original Thread[/url][/b]
+**[Original Thread](http://www.autohotkey.com/board/topic/636-intellisense-like-autoreplacement-with-multiple-suggestions/)**
